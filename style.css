@@ -1,0 +1,77 @@
+body{
+  background-color: #EFF6F5;
+}
+#title{
+    text-align:center;
+    font-size:43px;
+    line-height:27px;
+    color:#0804FA;
+  }
+  #logo{
+    width:14%;
+    margin-left: 650px;
+    float: none;
+    opacity: none;
+    line-height: 10ch;
+  }
+  table, tr, th, td {
+    border: solid 1.5px #c3bfbf;
+            border-collapse: collapse;
+            text-align: left;
+            color: #434351;
+            margin-left: 50px;
+            height:40px;
+  }
+  th{
+    background-color: #D9D6D6;
+    width: 190px;
+    color:#434351;
+    height: 26px;
+  }
+  #cons{
+    margin-left: 600px;
+    width:300px;
+    height:300px;
+  }
+  td{
+    width: 280px;
+    font-family: sans-serif;
+    font-size:15px;
+    text-align: center;
+    color:gray;
+    }
+    #taken{
+      margin-left: -100px;
+      color: #3CA592;
+      font-size: 22px;
+      margin-left: 1228px;
+    }
+    #olki{
+      color: #2133CC;
+      font-size: 20px;
+      margin-left: 1330px;
+      margin-top: -47px;
+    }
+    #name{
+      color: #13660F;
+      text-align: right;
+      font-size: 25px;
+    }
+    #ems{
+      margin-left:560px;
+      text-decoration: none;
+      color:#198C7E;
+      font-size: 20px;
+      line-height: 60px;
+    }
+    #didnt{
+      color: #C11FC6;
+      font-size: 21px;
+      text-align: center;
+      line-height: 10px;
+    }
+    #reol{
+      text-decoration: none;
+      color: #C61F4D;
+      margin-left: 30px;
+    }
